@@ -18,6 +18,10 @@ dist/
 build/
 *.egg
 
+# Cursor (local only, no repo)
+.cursor/rules/
+.cursor/skills/
+
 # IDE
 .idea/
 .vscode/

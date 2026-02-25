@@ -21,6 +21,7 @@ build/
 # Cursor (local only, no repo)
 .cursor/rules/
 .cursor/skills/
+AGENTS.md
 
 # IDE
 .idea/

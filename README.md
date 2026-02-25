@@ -88,13 +88,8 @@ Pipeline ejecutable en `marketing_ab_analysis.ipynb`.
 ---
 
 ## Futuras mejoras
-
-- [x] Análisis **most ads hour** vs converted (Chi² + post-hoc).
 - [ ] Reporte formal con `ab-test-reporting` (visualizaciones, HTML/PDF).
 - [ ] Dashboard interactivo (Streamlit) para exploración de resultados.
-- [ ] Considerar corrección por desbalance (ponderation o re-muestreo) si se requiere análisis más conservador.
-- [ ] Tests unitarios para funciones de estadística (tests/).
-- [ ] Documentar product-marketing-context si se adopta la dependencia de marketingskills.
 
 ---
 
@@ -107,5 +102,3 @@ pip install pandas numpy matplotlib seaborn scipy
 # Ejecutar análisis
 jupyter notebook marketing_ab_analysis.ipynb
 ```
-
-Ver `AGENTS.md` para flujo de trabajo con agentes y skills.

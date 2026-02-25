@@ -1,8 +1,5 @@
 # Marketing AB Testing
 
-Herramientas de análisis de tests A/B para marketing: diseño estadístico, significancia, power analysis, reportes y visualizaciones 
-
----
 
 ## Contexto del negocio
 
